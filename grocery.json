@@ -1,0 +1,84 @@
+{
+ "grocery" :[
+    {
+        "Sl_No": 1,
+        "Name": "Bread",
+        "Quantity": 250,
+        "Unit": "Gram",
+        "Department":"Bakery",
+        "Notes": "Modern"
+    },
+    {
+        "Sl_No": 2,
+        "Name": "Butter",
+        "Quantity": 100,
+        "Unit": "Gram",
+        "Department":"Dairy",
+        "Notes": "Amul"
+    },
+    {
+        "Sl_No": 3,
+        "Name": "Carrot",
+        "Quantity": 250,
+        "Unit": "Gram",
+        "Department":"Vegatables",
+        "Notes": "Fresh"
+    },
+    {
+        "Sl_No": 4,
+        "Name": "Banana",
+        "Quantity": 1,
+        "Unit": "Kilogram",
+        "Department":"Fruits",
+        "Notes": "Fresh"
+    },
+    {
+        "Sl_No": 5,
+        "Name": "Sugar",
+        "Quantity": 1,
+        "Unit": "Kilogram",
+        "Department":"Drygoods",
+        "Notes": "Parry"
+    },
+    {
+        "Sl_No": 6,
+        "Name": "Detergent",
+        "Quantity": 1,
+        "Unit": "Kilogram",
+        "Department":"Cleaners",
+        "Notes": "Ariel"
+    },
+    {
+        "Sl_No": 7,
+        "Name": "Juice",
+        "Quantity": 1,
+        "Unit": "Litre",
+        "Department":"Beverages",
+        "Notes": "Tropicana"
+    },
+    {
+        "Sl_No": 8,
+        "Name": "Ice-cream",
+        "Quantity": 1,
+        "Unit": "Litre",
+        "Department":"Frozen",
+        "Notes": "Amul"
+    },
+    {
+        "Sl_No": 9,
+        "Name": "Floor hygiene",
+        "Quantity": 1,
+        "Unit": "Litre",
+        "Department":"Cleaners",
+        "Notes": "Lizol"
+    },
+    {
+        "Sl_No": 10,
+        "Name": "Soap",
+        "Quantity": 200,
+        "Unit": "Gram",
+        "Department":"Personal Care",
+        "Notes": "Pears-Aloe"
+    }
+]
+}
